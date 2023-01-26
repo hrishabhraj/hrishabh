@@ -1,6 +1,7 @@
 # HRISHABH
 Hello World 
 Hosted through MIT Github Services  
+hrishabh.cbse@gmail.com
 Text can be bold, italic, or strikethrough. Links should be blue with no underlines (unless hovered over).
 
 There should be whitespace between paragraphs. There should be whitespace between paragraphs. There should be whitespace between paragraphs. There should be whitespace between paragraphs.
